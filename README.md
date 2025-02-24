@@ -3,31 +3,17 @@ Pumpfun launch & sniper bot using jito
 
 ## Screenshots
 
-- Make a profit
-
-    ![image](https://github.com/user-attachments/assets/c78aebe1-7241-481a-a18d-4492e44d3f61)
-
-
 - Create new SPL token on Pump.fun
 
     CA: [9DQZcmv3PFezYa4itDC5NCia4vWV6LKNNShNtciwqSZM](https://pump.fun/9DQZcmv3PFezYa4itDC5NCia4vWV6LKNNShNtciwqSZM)
 
-    ![image](https://github.com/user-attachments/assets/8482390c-6923-4ac9-a633-81ec4a661350)
-
-
 - Create & buy
 
     [3uBwg8JRepis9HuKPFUW8joavo4CdkUGmZMciY1U7CSMEjvMbMfremZmomvg6SgyNTLPzMzWg3GiWSbxcT5hybir](https://solscan.io/tx/3uBwg8JRepis9HuKPFUW8joavo4CdkUGmZMciY1U7CSMEjvMbMfremZmomvg6SgyNTLPzMzWg3GiWSbxcT5hybir)
-
-    ![image](https://github.com/user-attachments/assets/21fd44d5-bc05-4939-b938-a6a8d4ac367d)
-
     
 - Sell
 
     [mEwTYYe7vctyDRF57AY7aJUAmggbYXApGhfnEDJqrvsSgdBJyujMNBDbfHFizKBem5kRQXDMCWtcMt8VFg8ymHk](https://solscan.io/tx/mEwTYYe7vctyDRF57AY7aJUAmggbYXApGhfnEDJqrvsSgdBJyujMNBDbfHFizKBem5kRQXDMCWtcMt8VFg8ymHk)
-
-    ![image](https://github.com/user-attachments/assets/ea8742a6-42a1-4f34-b055-56ebaa789b72)
-
 
 ## Features
 
